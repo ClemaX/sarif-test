@@ -24,7 +24,7 @@
       "artifacts": [
         {
           "location": {
-            "uri": "simple-example.js"
+            "uri": "example.js"
           }
         }
       ],
@@ -38,7 +38,7 @@
             {
               "physicalLocation": {
                 "artifactLocation": {
-                  "uri": "simple-example.js",
+                  "uri": "example.js",
                   "index": 0
                 },
                 "region": {
